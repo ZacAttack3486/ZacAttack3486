@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZacAttack3486
+- 👀 I’m interested in learning more about PC Hardware and Software
+- 🌱 I’m currently learning how to run Mac Os' in Virtualbox.
+- 💞️ I’m looking to collaborate on AMD processors not allowing my Virtualbox to work correctly.
+- 📫 How to reach me zacattack3486@gmail.com
